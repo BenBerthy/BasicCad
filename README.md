@@ -46,52 +46,59 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+This part is the mount for the caster. It is a 120mm by 120mm rectangle with a thickness of 8mm. On it, there are 5 holes, 4 of which that are symmetical, and are positioned at each corner. These holes have a diameter of 10mm. The other hole is located at the origin, and has a diameter of 25mm.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/fb12fb072f9d84f05ef6c69f/w/5acd12414a244aa8c7fe6ea3/e/543c0aa96815a513cbee6672
 ### Image
-
+![Screenshot 2020-10-06 at 9 39 35 PM](https://user-images.githubusercontent.com/71345176/95661728-850b9880-0aff-11eb-9f3d-cbfe78d2bbd1.png)
 ### Reflection
-
+This was an easy part for me to build, simply because it was a basic shape.
+Some shortcuts I learned:
+Shift S (New Sketch)
+C (Circle
+R (New Rectangle)
 ---
 
 
 ## Fork
 
 ### Description
-
+The fork is just a cylinder with an 80mm diameter, and that is 8mm thick. There are two prongs extruding from it that are 40mm long, 5mm wide, and 75mm tall.There are two fillets on both sides on the top, that are both 15mm, and the fork also has a 1mm fillet on the edge of both sides.Both prongs have a hole that measures 10mm in diameter, and 15mm away from the top of the prong. on the other face of the cylinder , there is a long tube that has a 15mm diameter on the interior and a 20mm on the exterior. It should also be 60mm tall, and there is a 1mm chamfer on the top of the culinder and on both edges of the base circle.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/18245d35fc21dcc2922b77a2/w/38f0b5cac535264c7a2ce9fd/e/04cc03635b3e5da10f165a96
 ### Image
+![Screenshot 2020-10-06 at 9 40 25 PM](https://user-images.githubusercontent.com/71345176/95661970-99e92b80-0b01-11eb-88ca-8026ecbebefc.png)
 
 ### Reflection
-
+I had few problems working on this part, I had a slight problem with mirroring the first prong to make two, but that was an easy problem to fix.
+Some shortcuts I learned:
+Shift F (New Fillet)
 ---
 
 
 ## Tire
 
 ### Description
-
+The tire is a 20mm rectangle that has been revolved. It has an 8mm fillet on both sides.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/18245d35fc21dcc2922b77a2/w/38f0b5cac535264c7a2ce9fd/e/83db7f4c9b2bcb9948d0f843
 ### Image
-
+![Screenshot 2020-10-06 at 9 39 46 PM](https://user-images.githubusercontent.com/71345176/95662046-12e88300-0b02-11eb-9fbc-fd7c49e7fc8f.png)
 ### Reflection
-
+This was a really easy part, Im getting much more comfortable with Onshape!
 ---
 
 
 ## Wheel
 
 ### Description
-
+The Wheel is 20mm wide and about 5mm thick. There are 5 60 degree spokes that rotate around the origin. There is a 4mm fillet on the interior edges of the wheel.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/6752f3bbeb173dab887e8f7d/w/08d58750d2eb831da6b8a9c7/e/6d4079d03af7e1f44a970047
 ### Image
-
+![Screenshot 2020-10-10 at 3 40 33 PM](https://user-images.githubusercontent.com/71345176/95663642-f6067c80-0b0e-11eb-812a-d430b41aea88.png)
 ### Reflection
-
+I had some trouble making this, but in the end I finished it.
 ---
 
 
