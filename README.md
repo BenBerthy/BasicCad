@@ -116,3 +116,30 @@ This part was basically like the tire, but more complicated. I reccomend having 
 ### Reflection
 
 ---
+
+
+
+## Sub Assembly
+This is the Sub Assembly, I am preparing to build the Final Assembly. 
+### Description
+
+### Evidence 
+
+### Image
+
+### Reflection
+
+---
+
+
+##  Final Assembly
+
+### Description
+This is the Final Caster Assembly. It is all of the pieces I have made joined together to make a Caster. Mate The Mount onto The Base using a fastened mate. Mate the big bearing onto the mount using a revolute mate. Mate the fork onto the bearing, through the Base, and through the Mount, using a revolute mate. Mate the Wheel and Axle onto the fork using a revolute mate. Add collars to both sides of the Axle that is poking out of the fork. Then, add hex screws into the 4 different holes of the mount and the base. Secure those with nuts. Put a giant nut on the piece of the fork that is poking out. Finally, add the little tubes into the collars.
+### Evidence 
+[Final Assembly](https://cvilleschools.onshape.com/documents/c0fa7a09c4403d292bba9850/w/a4f8b0abf85e834fcf014bb9/e/3ff398633ee72ae307eaa8ce)
+### Image
+
+### Reflection
+
+---
