@@ -112,11 +112,19 @@ This part was basically like the tire, but more complicated. I reccomend having 
 ### Description
 The Axle is a tube thats 60mm long. It has an outer diameter of 10mm and an inner diameter of 6mm. There is a 10mm deep cut in the axle that sits 4.5 mm above the origin of the front of it. This is Reflected over to the other side of the Axle.
 
+The collar is a 10mm long tube thats outer diameter is 15mm and its inner diameter is 10mm. It has a 3mm hole on the side of it.\
+
+The big bearing is a 5mm long tube with an outer diameter of 30mm and aninner diameter of 20mm.
+
+The bearing is a 5mm long tube with an outer diameter of 25mm and an inner diameter of 10mm.
 ### Evidence
 [The AxleCollarBearings](https://cvilleschools.onshape.com/documents/8820b5d006ac7554ffc4aefb/w/5ed85717ab42351bba28634a/e/868fe55b1d4705d53aa59671)
+[The Big Bearing](https://cvilleschools.onshape.com/documents/cdfa513fd89b2321ad005ae6/w/9615a75935d7109ba1b5b622/e/b78a6ef39166cb4dc946966f)
+[The Bearing](https://cvilleschools.onshape.com/documents/c0fa7a09c4403d292bba9850/w/a4f8b0abf85e834fcf014bb9/e/36dd27393be249f7775dc693)
 ### Image
 
 ### Reflection
+These pieces were very easy to build, but, In the Axle piece, make sure that the 10mm cut is 4.5mm from the origin. 
 
 ---
 
@@ -129,6 +137,7 @@ This is the Sub Assembly, I am preparing to build the Final Assembly. First, mat
 ### Evidence 
 [The Sub Assembly](https://cvilleschools.onshape.com/documents/c9f0132a2ced921407207cad/w/e1dd5a254344415a22f5c1e6/e/48cea90eb043cf45958f928d)
 ### Image
+![Screenshot 2020-11-06 at 11 50 17 PM](https://user-images.githubusercontent.com/71345176/98432436-2c8ed300-208c-11eb-8d02-9f840db6dca1.png)
 
 ### Reflection
 By making this Sub Assembly, it will help me create the Final Assembly much faster. 
