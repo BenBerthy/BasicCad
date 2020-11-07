@@ -12,6 +12,8 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub Assembly](#Sub Assembly)
+* [Final Assembly](#Final Assembly) 
 
 ## Base
 
@@ -108,9 +110,10 @@ This part was basically like the tire, but more complicated. I reccomend having 
 ## AxleCollarBearings
 
 ### Description
+The Axle is a tube thats 60mm long. It has an outer diameter of 10mm and an inner diameter of 6mm. There is a 10mm deep cut in the axle that sits 4.5 mm above the origin of the front of it. This is Reflected over to the other side of the Axle.
 
 ### Evidence
-
+[The AxleCollarBearings](https://cvilleschools.onshape.com/documents/8820b5d006ac7554ffc4aefb/w/5ed85717ab42351bba28634a/e/868fe55b1d4705d53aa59671)
 ### Image
 
 ### Reflection
@@ -120,26 +123,28 @@ This part was basically like the tire, but more complicated. I reccomend having 
 
 
 ## Sub Assembly
-This is the Sub Assembly, I am preparing to build the Final Assembly. 
+
 ### Description
-
+This is the Sub Assembly, I am preparing to build the Final Assembly. First, mate the two washers to both sides of the wheel, using a fastened mate. Then, mate the tire and the wheel together, also using a fastened mate. Finally, send the axle through the wheel, using a fastened mate.# Description
 ### Evidence 
-
+[The Sub Assembly](https://cvilleschools.onshape.com/documents/c9f0132a2ced921407207cad/w/e1dd5a254344415a22f5c1e6/e/48cea90eb043cf45958f928d)
 ### Image
 
 ### Reflection
-
+By making this Sub Assembly, it will help me create the Final Assembly much faster. 
 ---
 
 
 ##  Final Assembly
 
 ### Description
-This is the Final Caster Assembly. It is all of the pieces I have made joined together to make a Caster. Mate The Mount onto The Base using a fastened mate. Mate the big bearing onto the mount using a revolute mate. Mate the fork onto the bearing, through the Base, and through the Mount, using a revolute mate. Mate the Wheel and Axle onto the fork using a revolute mate. Add collars to both sides of the Axle that is poking out of the fork. Then, add hex screws into the 4 different holes of the mount and the base. Secure those with nuts. Put a giant nut on the piece of the fork that is poking out. Finally, add the little tubes into the collars.
+This is the Final Caster Assembly. It is all of the pieces I have made joined together to make a Caster. First, mate The Mount onto The Base using a fastened mate. Then, mate the big bearing onto the mount using a revolute mate. Next, mate the fork onto the bearing, through the Base, and through the Mount, using a revolute mate. after, mate the Wheel and Axle onto the fork using a revolute mate. Then, add collars to both sides of the Axle that is poking out of the fork. Then, add hex screws into the 4 different holes of the mount and the base. Secure those with nuts. Next, put a giant nut on the piece of the fork that is poking out. Finally, add the little tubes into the collars.
 ### Evidence 
 [Final Assembly](https://cvilleschools.onshape.com/documents/c0fa7a09c4403d292bba9850/w/a4f8b0abf85e834fcf014bb9/e/3ff398633ee72ae307eaa8ce)
 ### Image
+![Screenshot 2020-11-06 at 11 27 42 PM](https://user-images.githubusercontent.com/71345176/98432222-0d8f4180-208a-11eb-98c6-541d84ce0d84.png)
 
 ### Reflection
+The mating was not that hard. While youre mating, I suggest making sure to check if you are mating the right sides. A shortcut for mating is (M).
 
 ---
