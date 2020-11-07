@@ -12,8 +12,8 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [Sub Assembly](#Sub Assembly)
-* [Final Assembly](#Final Assembly) 
+* [Sub Assembly](#Sub-Assembly)
+* [Final Assembly](#Final-Assembly) 
 
 ## Base
 
