@@ -122,6 +122,7 @@ The bearing is a 5mm long tube with an outer diameter of 25mm and an inner diame
 [The Big Bearing](https://cvilleschools.onshape.com/documents/cdfa513fd89b2321ad005ae6/w/9615a75935d7109ba1b5b622/e/b78a6ef39166cb4dc946966f)
 [The Bearing](https://cvilleschools.onshape.com/documents/c0fa7a09c4403d292bba9850/w/a4f8b0abf85e834fcf014bb9/e/36dd27393be249f7775dc693)
 ### Image
+![Screenshot 2020-11-06 at 11 59 39 PM](https://user-images.githubusercontent.com/71345176/98432566-77f5b100-208d-11eb-94e4-9023579b556c.png)
 
 ### Reflection
 These pieces were very easy to build, but, In the Axle piece, make sure that the 10mm cut is 4.5mm from the origin. 
