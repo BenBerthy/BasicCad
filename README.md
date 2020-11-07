@@ -87,6 +87,7 @@ The tire is a 20mm rectangle that has been revolved. It has an 8mm fillet on bot
 ![Screenshot 2020-10-06 at 9 39 46 PM](https://user-images.githubusercontent.com/71345176/95662046-12e88300-0b02-11eb-9fbc-fd7c49e7fc8f.png)
 ### Reflection
 I found the Rotate command (R) really helpful during this part, and I reccoment it to everyone else.
+
 ---
 
 
@@ -99,7 +100,8 @@ The Wheel is 20mm wide and about 5mm thick. There are 5 60 degree spokes that ro
 ### Image
 ![Screenshot 2020-10-10 at 3 40 33 PM](https://user-images.githubusercontent.com/71345176/95663642-f6067c80-0b0e-11eb-812a-d430b41aea88.png)
 ### Reflection
-I had some trouble making this, but in the end I finished it.
+This part was basically like the tire, but more complicated. I reccomend having a multi shape sketch to revolve.
+
 ---
 
 
